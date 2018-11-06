@@ -94,6 +94,10 @@ Vendor blobs go in the ``vendor/`` folder in your Halium source tree. You will n
 
 If you are unable to find your device in TheMuppets, you will need to find another repository with the vendor files somewhere.
 
+.. TODO::
+
+   Explain what a vendor blob is and how to add it to the 'vendor/' folder.
+
 
 Remotes
 ^^^^^^^
